@@ -1,0 +1,35 @@
+_repo: Adventures-in-indigence-and-other-essays_69882
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Portor, Laura Spencer
+    alias: Pope, Laura Spencer Portor
+    birthdate: 1872
+    deathdate: 1957
+    gutenberg_agent_id: '39344'
+    url: http://www.gutenberg.org/2009/agents/39344
+    wikipedia: https://en.wikipedia.org/wiki/Laura_Spencer_Portor_Pope
+description: ''
+gutenberg_issued: '2023-01-27'
+identifiers:
+  gutenberg: '69882'
+language: en
+pgterms:marc905: 20220602141029porter
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: hekula03 and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: 'United States: The Atlantic Monthly Press,1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American essays -- 20th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: 'Adventures in indigence: Musgrove. The harp and the violin. Major
+  Lobley. Mamie Faffelfinger. The lure of the "chiffoneer." Margaret. Margharetta.
+  The powers of the poor. Horatio -- Guests: Relations of the spirit. Kith and kin
+  -- The disappointments and vicissitudes of mice -- Birthdays and other egotisms.'
+title: Adventures in indigence, and other essays
+url: http://www.gutenberg.org/ebooks/69882
