@@ -1,5 +1,8 @@
 _repo: Adventures-in-indigence-and-other-essays_69882
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69882-h/images/cover.jpg
 creator:
   author:
     agent_name: Portor, Laura Spencer
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39344
     wikipedia: https://en.wikipedia.org/wiki/Laura_Spencer_Portor_Pope
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69882#Adventures-in-indigence-and-other-essays
 gutenberg_issued: '2023-01-27'
 identifiers:
   gutenberg: '69882'
